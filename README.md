@@ -1,6 +1,6 @@
 # Cheatsheet
-This is a combination of cheatsheets from the world.  
-The sources have their own original liks.  
+This is a combination of cheatsheets.  
+
 [@wangzhengya](https://github.com/wangzhengya/cheatsheet)
 ## Git
 ## C++
